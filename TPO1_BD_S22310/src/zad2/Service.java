@@ -18,7 +18,7 @@ import java.util.Currency;
 import java.util.Locale;
 
 public class Service {
-    private final String apiKeyWeather = "ebb9646c39437c5c918338336de83a18";
+    private final String apiKeyWeather = "KLUCZ_API";
     private final String kraj;
     private final Locale locale;
     private final String kod_waluty_kraju;
